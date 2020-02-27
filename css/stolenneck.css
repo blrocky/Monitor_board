@@ -1,6 +1,18 @@
 body
 {
 background-color: grey;
+    
+}
+div.board
+{
+    position:absolute;
+    width:85%;
+    height:90%;
+    top:5%;
+    left:12.5%;
+    background-image: url("/images/tile-on.png")
+       
+    
 }
 #medusa
 {
